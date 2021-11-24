@@ -22,6 +22,8 @@ namespace CustomerMaintenance
             this.Validate();
             this.jobDetailsBindingSource.EndEdit();
             this.tableAdapterManager1.UpdateAll(this.dbCustomerDataSet);
+
+            //a new comment
             // this.Validate();
            // this.workerBindingSource.EndEdit();
           // this.tableAdapterManager1.UpdateAll(this.dbCustomerDataSet);
