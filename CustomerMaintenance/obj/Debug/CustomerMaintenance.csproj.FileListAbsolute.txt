@@ -1,0 +1,27 @@
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.AssemblyReference.cache
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.Form1.resources
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.CustomerForm.resources
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.JobDetailsForm.resources
+D:\facultate\Ruse 2021-2022 sem 1\integrated enviroments\CustomerMaintenance\obj\Debug\CustomerMaintenance.WorkerForm.resources
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.AssemblyReference.cache
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.CustomerForm.resources
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.Form1.resources
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.JobDetailsForm.resources
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.WorkerForm.resources
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.cache
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Users\Stefanita\Desktop\Facultate\Anu 2 Ruse\Integrated Enviroments\Aplicatie conect cu sql\buna\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.ResolveComReference.cache
